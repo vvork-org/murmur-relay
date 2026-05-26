@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/K3yQKtx.png" width="200" alt="MurmurRelay Logo">
 
-**Transport-agnostic secure message relay SDK**
+**Encrypt locally. Send anywhere.**
 
 MurmurRelay is a lightweight encrypted messaging relay SDK that separates secure message handling from the service used to deliver messages.
 
