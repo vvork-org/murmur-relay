@@ -26,6 +26,8 @@ The relay service only moves encrypted payloads. It does not need to understand 
 
 MurmurRelay is currently an Android/Kotlin SDK.
 
+MurmurRelay is being developed alongside [Murmur](https://github.com/andyfriedl/murmur-android), where it is being integrated as the encrypted messaging layer.
+
 Future versions may explore support for iOS, web, and additional transport adapters.
 
 ## Project structure
